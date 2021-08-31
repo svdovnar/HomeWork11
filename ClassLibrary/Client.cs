@@ -8,7 +8,7 @@ namespace ClassLibrary
 {
     public class Client 
     {
-        public void OnNewsSubscribe()
+        private void OnNewsSubscribe()
         {
             Console.WriteLine("Nothing interesting happened");
         }
